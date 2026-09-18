@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+@theme {
+  --font-sans: var(--font-inter), sans-serif;
+  --font-mono: var(--font-mono), monospace;
+  --color-brand-white: #FFFFFF;
+  --color-brand-bg: #F2F2F2;
+  --color-brand-muted: #E4E4E4;
+  --color-brand-border: #D7D7D7;
+  --color-brand-dark: #000000;
+  --color-brand-text: #0A0A0A;
+}
+
+.polka-dots {
+  background-image: radial-gradient(#000000 0.75px, transparent 0.75px);
+  background-size: 16px 16px;
+}
