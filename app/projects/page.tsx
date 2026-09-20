@@ -45,14 +45,14 @@ const projectsData: ProjectItem[] = [
   },
   {
     id: "swift-stream",
-    title: "Swift Stream",
+    title: "Swift Streams",
     subtitle: "Movie Streaming",
     categoryTag: "Web Application",
     categoryGroup: "Web Apps",
     logoSrc: "/swift_stream.png",
     techStack: ["HTML", "Tailwind", "Express.js", "TMDB API"],
     description: "A Web-based movie streaming website connected to TMDB (The Movie Database) and a movie streaming API like vidsrc allowing users to watch movies with minimal ads.",
-    demoUrl: "https://swift-stream.onrender.com",
+    demoUrl: "https://swift-streams.vercel.app",
   },
 ]
 
