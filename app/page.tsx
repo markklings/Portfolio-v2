@@ -404,7 +404,7 @@ export default function Home() {
                 <div className="relative w-20 h-20 rounded-full overflow-hidden border border-brand-border mb-4 bg-brand-muted flex items-center justify-center font-mono text-xs">
                   <Image
                     src="/swift_stream.png"
-                    alt="Swift Stream"
+                    alt="Swift Streams"
                     fill
                     className="object-cover"
                   />
@@ -425,7 +425,7 @@ export default function Home() {
                   A Web-based movie streaming website connected to TMDB (The Movie Database) and a movie streaming API like vidsrc allowing user to watch movies with minimal ads.
                 </p>
                 <a
-                  href="https://swift-stream.onrender.com"
+                  href="https://swift-streams.vercel.app"
                   target="_blank"
                   className="mt-auto font-mono text-xs bg-brand-dark text-brand-white px-6 py-2.5 rounded-none border border-brand-dark hover:bg-brand-bg hover:text-brand-dark transition-all duration-300 flex items-center gap-1"
                 >
