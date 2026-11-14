@@ -64,6 +64,19 @@ export const certificateGroups: CertificateGroup[] = [
         logo: "/certs/dict.svg",
         verifyUrl: "/certs/operating-system-basics.png",
         invertOnDark: true,
+        featured: false,
+      },
+    ],
+  },
+  {
+    name: "Participations",
+    items: [
+      {
+        title: "BSCS Symposium",
+        issuer: "Immaculada Conception College - BSCS Dept",
+        logo: "/certs/comscie.svg",
+        verifyUrl: "/certs/cert-of-participation.png",
+        invertOnDark: true,
         featured: true,
       },
     ],
