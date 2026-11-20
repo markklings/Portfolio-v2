@@ -20,7 +20,7 @@ export const organizations: Organization[] = [
   },
   {
     name: "The Technocrats",
-    role: "Lead Graphic Designer",
+    role: "Lead Graphic Designer (Batch 2025-2026)",
     logo: "/logos/org-2.svg",
     invertOnDark: true,
   },
