@@ -81,4 +81,17 @@ export const certificateGroups: CertificateGroup[] = [
       },
     ],
   },
+  {
+    name: "Skills",
+    items: [
+      {
+        title: "Frontend Developer (React)",
+        issuer: "Hacker Rank",
+        logo: "/certs/hacker_rank.svg",
+        verifyUrl: "/certs/frontend-developer-react-certificate-1.png",
+        invertOnDark: true,
+        featured: false
+      },
+    ],
+  },
 ];
